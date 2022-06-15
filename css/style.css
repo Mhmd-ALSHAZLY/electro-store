@@ -1,0 +1,165 @@
+@media (min-width:992px) and (max-width:2000px){
+    nav ul{
+        margin-left: 350px;
+    }
+
+}
+nav ul a{
+    color: rgb(202, 204, 62);
+}
+nav ul a:hover{
+    color: rgb(170, 118, 50);
+}
+/* .navbar-toggler:hover{
+    outline: none;
+    border: none;
+} */
+nav h2 a{
+    color: rgb(202, 204, 62);
+}
+nav h2 a:hover{
+    color: rgb(202, 204, 62);
+    text-decoration: none;
+}
+.h22{
+    color: rgb(221, 145, 30);
+}
+.part1{
+    background-color: rgb(196, 177, 116);
+}
+.part1 span{
+    color: aquamarine;
+}
+.part1 .child1{
+    padding-top: 150px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+.part1 button{
+    width: 110px;
+    background-color: aquamarine;
+}
+.part1 img{
+    width: 100%;
+    height: 500px;
+}
+.head{
+    text-align: center;
+    margin-top: 100px;
+}
+.part2{
+    padding-top: 50px;
+    margin-bottom: 150px;
+}
+.part2 .card{
+    text-align: center;
+    padding: 15px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.part2 .card i{
+    font-size: 30px;
+    color: burlywood;
+}
+.part2 .card1{
+    text-align: center;
+    padding: 15px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 15px;
+    border: none;
+    background-color: aliceblue;
+}
+.part2 .card1 img{
+    width: 100%;
+    height: 100px;
+}
+.part2 .card #star{
+    margin-bottom: 10px;
+    color: rgb(184, 154, 73);
+    font-size: 100%;
+    display: inline-block;
+}
+.part3 h2{
+    margin-bottom: 50px;
+}
+.part3{
+    padding-bottom: 200px;
+}
+/* ======================= */
+.part3 img{
+    height: 100%;
+    width: 100%;
+}
+.colm1{
+    height: 400px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 15px;
+    /* border: 2px solid black; */
+}
+.colm2{
+    height: 400px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.colm21{
+    height: 180px;
+    margin-bottom: 40px;
+}
+.colm22{
+    height: 180px;
+}
+.colm3{
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+/* ======================== */
+.part4{
+    margin-bottom: 150px;
+}
+.part4 h2{
+    margin-bottom: 50px;
+}
+.part4 .card{
+    text-align: center;
+    height: auto;
+    border: none;
+}
+.part4 .card img{
+    width: 100%;
+    height: 60%;
+    margin-bottom: 20px;
+}
+.part4 .card p{
+    color: gold;
+}
+.part4 .card .price{
+    color: rgb(128, 80, 10);
+}
+footer{
+    border-top-right-radius: 20%;
+    border-top-left-radius: 20%;
+    padding-top: 50px;
+    background-color: rgb(61, 61, 61);
+
+}
+footer .foUl{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+footer ul li{
+    color: floralwhite;
+}
+footer ul li a{
+    color: floralwhite;
+}
+footer ul li a:hover{
+    color: rgb(250, 229, 189);
+    text-decoration: none;
+}
